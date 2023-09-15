@@ -81,6 +81,9 @@ ul{
     background-color: #BEADFA;
     
 }
+.footer{
+    margin-top: 300px;
+}
 
 @media(max-width:1025px){
 
